@@ -1,0 +1,1 @@
+{"name":"Local: 27","url":"f:\\DSA Library\\graph\\27.Kruskal's Algorithm.cpp","tests":[{"id":1750695391797,"input":"6 8\n1 2 3\n1 3 4\n2 4 1\n3 4 5\n3 5 2\n3 6 3\n4 6 4\n5 6 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DSA Library\\graph\\27.Kruskal's Algorithm.cpp","group":"local","local":true}

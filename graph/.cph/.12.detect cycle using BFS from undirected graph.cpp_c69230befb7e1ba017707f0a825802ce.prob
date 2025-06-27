@@ -1,0 +1,1 @@
+{"name":"Local: 12","url":"f:\\DSA Library\\graph\\12.detect cycle using BFS from undirected graph.cpp","tests":[{"id":1748538597020,"input":"5 5\n0 1\n0 2\n1 3\n2 4\n3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DSA Library\\graph\\12.detect cycle using BFS from undirected graph.cpp","group":"local","local":true}
